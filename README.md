@@ -1,2 +1,5 @@
-# Python-Unit-Converter
-A common unit converter in Python.
+# Unit Converter
+
+Convert kilometres to miles, kilograms to pounds, or Celsius to Fahrenheit.
+
+Run with `python main.py`.
